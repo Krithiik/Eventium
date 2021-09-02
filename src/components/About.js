@@ -30,18 +30,14 @@ export default function About() {
           <img
             width="370"
             height="410"
-            src="http://demo.qkthemes.net/eventium/wp-content/uploads/2018/06/art4.jpg"
-            alt=""
-            srcset="http://demo.qkthemes.net/eventium/wp-content/uploads/2018/06/art4.jpg 370w, http://demo.qkthemes.net/eventium/wp-content/uploads/2018/06/art4-271x300.jpg 271w"
+            src="https://images.unsplash.com/photo-1551818255-e6e10975bc17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1850&q=80"
             sizes="(max-width: 370px) 100vw, 370px"
             style={{ position: "absolute" }}
           ></img>
           <img
             width="370"
             height="410"
-            src="http://demo.qkthemes.net/eventium/wp-content/uploads/2018/06/art3.jpg"
-            alt=""
-            srcset="http://demo.qkthemes.net/eventium/wp-content/uploads/2018/06/art3.jpg 370w, http://demo.qkthemes.net/eventium/wp-content/uploads/2018/06/art3-271x300.jpg 271w"
+            src="https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
             sizes="(max-width: 370px) 100vw, 370px"
             style={{ position: "relative", top: "70px", left: "200px" }}
           ></img>
