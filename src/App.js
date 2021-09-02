@@ -1,5 +1,4 @@
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 import Appbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import About from "./components/About";
